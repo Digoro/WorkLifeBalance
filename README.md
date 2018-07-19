@@ -1,2 +1,3 @@
 # Work Life Balance
-일과 삶의 균형을 추구합니다.
+ - WLB pursues work-life balance.
+ - Record and analyze your work-life balance.
